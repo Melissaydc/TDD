@@ -4,7 +4,7 @@
 
 <h2>Passos Seguidos no Desenvolvimento</h2>
 <ol>
-    <li>Escrever o teste unitário (JUnit) para a tela de login;</li>
+    <li>Teste unitário (JUnit) para a tela de login;</li>
     <li>Executar o teste unitário;</li>
     <li>Implementar a classe <code>LoginScreen</code>;</li>
     <li>Executar o teste unitário novamente;</li>
@@ -24,14 +24,12 @@
 <h3>Passos para Execução</h3>
 <ol>
     <li>Clone o repositório remoto para sua máquina local:</li>
-    <pre><code>git clone &lt;URL do repositório&gt;</code></pre>
+    <pre><code>git clone https://github.com/Melissaydc/TDD/ </code></pre>
     <li>Abra o projeto no seu ambiente de desenvolvimento Java.</li>
     <li>Compile o projeto para garantir que todas as dependências estejam corretamente configuradas.</li>
     <li>Execute os testes unitários para garantir que a implementação está correta:</li>
     <pre><code>Run -> Run All Tests</code></pre>
     <li>Implemente a classe <code>LoginScreen</code> se necessário e reexecute os testes para verificar a implementação.</li>
-    <li>Gere a documentação JAVADOC:</li>
-    <pre><code>Tools -> Generate JavaDoc</code></pre>
 </ol>
 
 <h2>Descrição da Implementação</h2>
